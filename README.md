@@ -6,8 +6,8 @@ P.S: `UIPageViewController`比较难用，坑多。
 
 ### PageViewController
 
-![PageViewController](../Snapshots/PageViewController.gif)
+![PageViewController](https://github.com/sadjason/SJPageView/blob/master/Snapshots/PageViewController.gif)
 
 ### PhotoBrowser
 
-![PhotoBrowser](../Snapshots/PhotoBrowser.gif)
+![PhotoBrowser](https://github.com/sadjason/SJPageView/blob/master/Snapshots/PhotoBrowser.gif)
